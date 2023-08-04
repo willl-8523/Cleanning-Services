@@ -3,9 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', 'sans-serif';
-
-  /* overflow: hidden; */
-
 }
 
 .hero{
@@ -104,13 +101,6 @@ form[name=command_form] label {
 .form-select {
   color: rgba(44, 62, 80, 1)!important;
 }
-
-/* form[name=command_form]
-{
-  z-index: 1;
-} */
-
-/* Menu dashboard */
 
 .container-row{
   width: 100%;
